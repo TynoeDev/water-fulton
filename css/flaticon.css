@@ -1,0 +1,266 @@
+@font-face {
+    font-family: "flaticon";
+    src: url("../fonts/flaticon6c97.ttf?ad9a54ae51fc0858013b365f391d7322") format("truetype"),
+url("../fonts/flaticon6c97.woff?ad9a54ae51fc0858013b365f391d7322") format("woff"),
+url("../fonts/flaticon6c97.woff2?ad9a54ae51fc0858013b365f391d7322") format("woff2"),
+url("../fonts/flaticon6c97.eot?ad9a54ae51fc0858013b365f391d7322#iefix") format("embedded-opentype"),
+url("../fonts/flaticon6c97.svg?ad9a54ae51fc0858013b365f391d7322#flaticon") format("svg");
+}
+
+i[class^="pbmit-wedrill-icon-"]:before, i[class*=" pbmit-wedrill-icon-"]:before {
+    font-family: flaticon !important;
+    font-style: normal;
+}
+
+.pbmit-wedrill-icon-back:before {
+    content: "\f101";
+}
+.pbmit-wedrill-icon-next:before {
+    content: "\f102";
+}
+.pbmit-wedrill-icon-conveyor:before {
+    content: "\f103";
+}
+.pbmit-wedrill-icon-coal:before {
+    content: "\f104";
+}
+.pbmit-wedrill-icon-cosmetic:before {
+    content: "\f105";
+}
+.pbmit-wedrill-icon-chemicals:before {
+    content: "\f106";
+}
+.pbmit-wedrill-icon-screwdriver:before {
+    content: "\f107";
+}
+.pbmit-wedrill-icon-pipe:before {
+    content: "\f108";
+}
+.pbmit-wedrill-icon-warehouse:before {
+    content: "\f109";
+}
+.pbmit-wedrill-icon-welder:before {
+    content: "\f10a";
+}
+.pbmit-wedrill-icon-refinery:before {
+    content: "\f10b";
+}
+.pbmit-wedrill-icon-drilling-rig:before {
+    content: "\f10c";
+}
+.pbmit-wedrill-icon-gear:before {
+    content: "\f10d";
+}
+.pbmit-wedrill-icon-package:before {
+    content: "\f10e";
+}
+.pbmit-wedrill-icon-windmill:before {
+    content: "\f10f";
+}
+.pbmit-wedrill-icon-industry:before {
+    content: "\f110";
+}
+.pbmit-wedrill-icon-hook:before {
+    content: "\f111";
+}
+.pbmit-wedrill-icon-meter:before {
+    content: "\f112";
+}
+.pbmit-wedrill-icon-tank:before {
+    content: "\f113";
+}
+.pbmit-wedrill-icon-security-helmet:before {
+    content: "\f114";
+}
+.pbmit-wedrill-icon-factory:before {
+    content: "\f115";
+}
+.pbmit-wedrill-icon-packages:before {
+    content: "\f116";
+}
+.pbmit-wedrill-icon-wrench:before {
+    content: "\f117";
+}
+.pbmit-wedrill-icon-food-industry:before {
+    content: "\f118";
+}
+.pbmit-wedrill-icon-waste-water:before {
+    content: "\f119";
+}
+.pbmit-wedrill-icon-power-plant:before {
+    content: "\f11a";
+}
+.pbmit-wedrill-icon-plug:before {
+    content: "\f11b";
+}
+.pbmit-wedrill-icon-truck:before {
+    content: "\f11c";
+}
+.pbmit-wedrill-icon-food-industry-1:before {
+    content: "\f11d";
+}
+.pbmit-wedrill-icon-forklift:before {
+    content: "\f11e";
+}
+.pbmit-wedrill-icon-construction-worker:before {
+    content: "\f11f";
+}
+.pbmit-wedrill-icon-vest:before {
+    content: "\f120";
+}
+.pbmit-wedrill-icon-control-panel:before {
+    content: "\f121";
+}
+.pbmit-wedrill-icon-cargo-ship:before {
+    content: "\f122";
+}
+.pbmit-wedrill-icon-battery:before {
+    content: "\f123";
+}
+.pbmit-wedrill-icon-gas-mask:before {
+    content: "\f124";
+}
+.pbmit-wedrill-icon-barrel:before {
+    content: "\f125";
+}
+.pbmit-wedrill-icon-construction-worker-1:before {
+    content: "\f126";
+}
+.pbmit-wedrill-icon-battery-1:before {
+    content: "\f127";
+}
+.pbmit-wedrill-icon-industry-1:before {
+    content: "\f128";
+}
+.pbmit-wedrill-icon-valve:before {
+    content: "\f129";
+}
+.pbmit-wedrill-icon-gloves:before {
+    content: "\f12a";
+}
+.pbmit-wedrill-icon-saw:before {
+    content: "\f12b";
+}
+.pbmit-wedrill-icon-scissor-lift:before {
+    content: "\f12c";
+}
+.pbmit-wedrill-icon-oil-tank:before {
+    content: "\f12d";
+}
+.pbmit-wedrill-icon-oil-pump:before {
+    content: "\f12e";
+}
+.pbmit-wedrill-icon-factory-1:before {
+    content: "\f12f";
+}
+.pbmit-wedrill-icon-container:before {
+    content: "\f130";
+}
+.pbmit-wedrill-icon-oil-industry:before {
+    content: "\f131";
+}
+.pbmit-wedrill-icon-packages-1:before {
+    content: "\f132";
+}
+.pbmit-wedrill-icon-plan:before {
+    content: "\f133";
+}
+.pbmit-wedrill-icon-factory-2:before {
+    content: "\f134";
+}
+.pbmit-wedrill-icon-loupe:before {
+    content: "\f135";
+}
+.pbmit-wedrill-icon-shopping-cart:before {
+    content: "\f136";
+}
+.pbmit-wedrill-icon-conveyor-1:before {
+    content: "\f137";
+}
+.pbmit-wedrill-icon-factory-3:before {
+    content: "\f138";
+}
+.pbmit-wedrill-icon-engineer:before {
+    content: "\f139";
+}
+.pbmit-wedrill-icon-valve-1:before {
+    content: "\f13a";
+}
+.pbmit-wedrill-icon-barrel-1:before {
+    content: "\f13b";
+}
+.pbmit-wedrill-icon-eolic-energy:before {
+    content: "\f13c";
+}
+.pbmit-wedrill-icon-helmet:before {
+    content: "\f13d";
+}
+.pbmit-wedrill-icon-professional:before {
+    content: "\f13e";
+}
+.pbmit-wedrill-icon-forklift-1:before {
+    content: "\f13f";
+}
+.pbmit-wedrill-icon-solar-panel:before {
+    content: "\f140";
+}
+.pbmit-wedrill-icon-fuel-truck:before {
+    content: "\f141";
+}
+.pbmit-wedrill-icon-battery-2:before {
+    content: "\f142";
+}
+.pbmit-wedrill-icon-tick:before {
+    content: "\f143";
+}
+.pbmit-wedrill-icon-conversation:before {
+    content: "\f144";
+}
+.pbmit-wedrill-icon-call:before {
+    content: "\f145";
+}
+.pbmit-wedrill-icon-helmet-1:before {
+    content: "\f146";
+}
+.pbmit-wedrill-icon-location:before {
+    content: "\f147";
+}
+.pbmit-wedrill-icon-send:before {
+    content: "\f148";
+}
+.pbmit-wedrill-icon-telephone:before {
+    content: "\f149";
+}
+.pbmit-wedrill-icon-world:before {
+    content: "\f14a";
+}
+.pbmit-wedrill-icon-time-call:before {
+    content: "\f14b";
+}
+.pbmit-wedrill-icon-chat:before {
+    content: "\f14c";
+}
+.pbmit-wedrill-icon-email:before {
+    content: "\f14d";
+}
+.pbmit-wedrill-icon-mailbox:before {
+    content: "\f14e";
+}
+.pbmit-wedrill-icon-guarantee:before {
+    content: "\f14f";
+}
+.pbmit-wedrill-icon-plus:before {
+    content: "\f150";
+}
+.pbmit-wedrill-icon-medal:before {
+    content: "\f151";
+}
+.pbmit-wedrill-icon-certificate:before {
+    content: "\f152";
+}
+.pbmit-wedrill-icon-winner:before {
+    content: "\f153";
+}
+.pbmit-wedrill-icon-trophy:before {
+    content: "\f154";
+}
