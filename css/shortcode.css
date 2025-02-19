@@ -3439,6 +3439,16 @@ a.btn-arrow span:after {
     position: relative;
     margin-top: -70px;
 }
+.pbmit-title-bar-wrapper2 {
+    background-color: transparent;
+    background-image: url(../images/title-bgB.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    background-attachment: scroll;
+    position: relative;
+    margin-top: -70px;
+}
 .pbmit-title-bar-content {
     position: relative;
     z-index: 1;
